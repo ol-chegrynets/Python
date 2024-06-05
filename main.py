@@ -26,7 +26,6 @@ def cards_and_suits(a, b):
 
    return desk_of_cards
 
-#print(desk_of_cards[0][1])
 
 def name_player():  # додавання ім'я ігрока
    global name_player_2, name_player_1
